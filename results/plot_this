@@ -1,0 +1,6 @@
+\addplot coordinates {(bzip2,90.3000) (crafty,78.4200) (equake,83.7500) (fma3d,87.5100) };
+\addplot coordinates {(bzip2,90.3200) (crafty,78.2700) (equake,83.6900) (fma3d,87.5300) };
+\addplot coordinates {(bzip2,96.4800) (crafty,76.9800) (equake,81.4500) (fma3d,82.1700) };
+\addplot coordinates {(bzip2,96.6800) (crafty,81.6500) (equake,89.2300) (fma3d,93.2500) };
+\addplot coordinates {(bzip2,96.6800) (crafty,76.3900) (equake,83.7500) (fma3d,88.9500) };
+\addplot coordinates {(bzip2,96.6800) (crafty,78.7500) (equake,83.1900) (fma3d,89.8400) };
